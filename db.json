@@ -1,5 +1,8 @@
 {
     "posts": [
         {"summary":[{"date":"2025-06-18","from":"2025-06-18T04:00:00Z","to":"2025-06-18T20:00:00Z","period":16,"sunHours":8,"rainyHours":0,"highestWarning":null,"weather":{"state":2,"text":"Wolkig","icon":"d_2.svg"},"prec":{"sum":0,"probability":20,"sumAsRain":null,"class":0,"freshSnowRangeMin":0,"freshSnowRangeMax":0},"temperature":{"min":13,"max":28,"avg":null},"wind":{"unit":"km/h","direction":"Nordwestwind","text":"NW","avg":5,"min":1,"max":9,"degree":315,"gusts":{"value":22,"text":null},"significantWind":false},"windchill":{"min":14,"max":30},"pressure":{"min":1021,"max":1024,"avg":1022},"relativeHumidity":{"min":34,"max":98,"avg":51},"clouds":{"min":0,"max":75,"avg":50},"astronomy":{"dawn":"2025-06-18T04:23:51+02:00","sunrise":"2025-06-18T05:07:53+02:00","suntransit":"2025-06-18T13:17:02+02:00","sunset":"2025-06-18T21:26:05+02:00","dusk":"2025-06-18T22:10:19+02:00","moonrise":"2025-06-18T01:09:09+02:00","moontransit":"2025-06-18T06:50:57+02:00","moonset":"2025-06-18T12:48:06+02:00","moonphase":6,"moonzodiac":12},"snowLine":{"min":null,"max":null}}]}
-    ]
+    ],
+    "profile": {
+        "name": "fischermaen"
+    }
 }
